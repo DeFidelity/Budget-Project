@@ -1,1 +1,1 @@
-# django-testing-tutorial
+# Minimal Management system for budgetting
